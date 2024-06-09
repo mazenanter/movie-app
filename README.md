@@ -1,6 +1,7 @@
 # movie_app
 
 A new Flutter project.
+This application displays a collection of movies, movie details, and search for the movies you want
 
 ## Getting Started
 
